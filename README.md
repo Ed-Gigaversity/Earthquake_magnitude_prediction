@@ -1,4 +1,4 @@
-# Eartquake_Magnitude_Prediction
+
 # 🌍 Earthquake Magnitude Prediction App
 
 A complete end-to-end machine learning web application that predicts the magnitude of an earthquake based on seismic and geographical inputs. Built with **Flask**, **CatBoost**, and **scikit-learn**, and served through a simple, elegant web interface.This repository contains a Flask web application that uses a CatBoost regression model to predict earthquake magnitudes. The model is trained using a dataset containing various features related to earthquakes. This project demonstrates the process of loading data, preprocessing it, training a machine learning model, and deploying the model as a web service using Flask.
@@ -51,7 +51,7 @@ cd Eartquake_Magnitude_Prediction
 ## 2. Create and activate a virtual environment (optional but recommended)
 python -m venv venv
 venv\Scripts\activate   # Windows
-# or
+or
 source venv/bin/activate  # macOS/Linux
 
 ## 3. Install dependencies
