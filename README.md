@@ -71,3 +71,12 @@ pip install -r requirements.txt
 python app.py
 ```
 Visit the web app at: http://127.0.0.1:5000/
+
+## Acknowledgements
+* Flask
+* numpy
+* Werkzeug
+* gunicorn
+* pandas
+* scikit-learn
+* catboost
