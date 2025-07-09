@@ -45,18 +45,29 @@ A complete end-to-end machine learning web application that predicts the magnitu
 
 ### 1. Clone the repository
 
+```
 git clone https://github.com/Ed-Gigaversity/Earthquake_magnitude_prediction.git
+```
+```
 cd Eartquake_Magnitude_Prediction
-
+```
 ## 2. Create and activate a virtual environment (optional but recommended)
+```
 python -m venv venv
+```
+```
 venv\Scripts\activate   # Windows
+```
 or
+```
 source venv/bin/activate  # macOS/Linux
-
+```
 ## 3. Install dependencies
+```
 pip install -r requirements.txt
-
+```
 ### 4. Run the application
+```
 python app.py
+```
 Visit the web app at: http://127.0.0.1:5000/
